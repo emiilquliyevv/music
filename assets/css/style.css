@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  margin-left: 70px;
+  background-color: transparent;
+}
+
+.menu {
+  margin-left: 1080px;
+  color: white;
+  margin-top: 40px;
+}
+
+.head {
+  color: white;
+  margin-top: 40px;
+}
+
+header {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url(https://preview.colorlib.com/theme/podca/images/hero_bg_1.jpg.webp);
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-white {
+  color: beige;
+}
+
+.slogan b {
+  font-size: 40px;
+  display: block;
+  text-transform: capitalize;
+  margin-top: 100px;
+}
+
+.slogan p {
+  font-size: 20px;
+  display: block;
+  text-transform: capitalize;
+  margin-top: 20px;
+}
+
+.btn {
+  margin-top: 40px;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+}
+
+.video {
+  text-align: center;
+  color: black;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: black;
+  margin-top: 10px;
+}
+.video i {
+  color: #fff;
+}
+.video span {
+  color: #fff;
+}
+
+.yazi {
+  color: black;
+  margin-top: 30px;
+}
+
+.row {
+  border: 1px solid black;
+  width: 80%;
+  margin: 0 auto;
+}
+.row .video input {
+  width: 65%;
+}
+
+.carts {
+  display: flex;
+  box-shadow: 0 12px 20px rgb(209, 209, 209);
+}
+
+img {
+  width: 100%;
+}
+
+.col-md-8 {
+  width: 60%;
+  margin: 10% auto;
+}
+.col-md-8 .fw-light {
+  font-size: 2.1rem;
+  color: coral;
+}
+.col-md-8 .row.p-0 {
+  padding: 0 !important;
+}
+.col-md-8 .Mike {
+  font-size: 1.1rem;
+}
+.col-md-8 .lorem {
+  font-size: 1.1rem;
+}
+
+.btn1 {
+  align-items: center;
+  text-align: center;
+}
+
+.btn2 {
+  padding: 10px;
+  border-radius: 50%;
+}
